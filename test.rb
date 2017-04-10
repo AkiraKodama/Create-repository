@@ -1,3 +1,4 @@
+# test branch
 class ExceptionTest
   def test
     begin
